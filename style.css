@@ -61,6 +61,13 @@ button:hover{
 /** marmara bolgesi css start */
 
 
+.sehirMain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:60px;
+}
 
 .sehirCard{
     width: 350px;
