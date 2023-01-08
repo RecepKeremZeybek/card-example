@@ -33,3 +33,9 @@
 h3{
     margin: 10px;
 }
+button{
+    padding: 10px;
+    border-radius: 20px;
+    margin: 15px;
+    border: none;
+}
