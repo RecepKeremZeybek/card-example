@@ -51,5 +51,5 @@ button{
 }
 
 button:hover{
-    background-color: rgb(50, 50, 114);
+    background-color: tomato;
 }
